@@ -35,6 +35,8 @@ Un gestor de contrasenyes:
 
 Així es redueix molt el risc d’atacs i filtracions.
 
+![imagen](img/Tasca01_1.png)
+
 **2\. Comparativa entre opcions**
 
 | Característica | Bitwarden (Online / Núvol) | KeePassXC (Offline / Local) |
