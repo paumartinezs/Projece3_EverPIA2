@@ -104,6 +104,8 @@ Incloeu exemples pràctics sobre com:
   - **Emmagatzematge xifrat al núvol**
 
  A l'arxiu [Informe.md](informe.md) hi ha el informe.
+ 
  A l'arxiu [Guia.md](guia.md) hi ha la guia.
+
 
 [Torna a la pàgina principal](../README.md)
