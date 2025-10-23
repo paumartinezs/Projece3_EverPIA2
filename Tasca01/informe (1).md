@@ -86,3 +86,5 @@ Així es redueix molt el risc d’atacs i filtracions.
 - No és tan pràctic per compartir contrasenyes entre equips.
 
 Torna a [L'enunciat](README.md)
+
+Tonra a la pàgina [Principal](../README.md)
