@@ -2,29 +2,29 @@
 
 1. Instal·lació i Configuració Inicial: Descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
 
-![][image1]
+![Imatge](img/Tasca01_guia_1.png)
 
 En primer lloc, per instalar la aplicación de Bitwarden, entra a la microsoft store i cerca “Bitwarden” també es pot instalar per la pagina offical de Bitwarden “[Bitwarden](https://bitwarden.com/download)” 
 
-**![][image2]**
+![Imatge](img/Tasca01_guia_2.png)
 
 Un cop dintre de l’aplicació de Bitwarden ves a l'apartat de “Crear un compte”.
 
-![][image3]
+![Imatge](img/Tasca01_guia_3.png)
 
 Posa la teva adreça electrònica i el teu nom per crear una compte.
 
-![][image4]
+![Imatge](img/Tasca01_guia_4.png)
 
 Estableix una contrasenya per crear el compte, (mínim 12 Caràcters amb majúscules, minúscules, números i símbols)
 
-![][image5]
+![Imatge](img/Tasca01_guia_5.png)
 
 Un cop establert la contrasenya prem “Crear un compte”
 
 2. Generació de Contrasenyes Segures: Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials
 
-![][image6]
+![Imatge](img/Tasca01_guia_6.png)
 
 Per utilitzar el generador de contrasenyes, ves al apartat de “Eines \- Generados”, dintre del apartat del generador, pots seleccionar els paràmetres desitjats
 
@@ -40,58 +40,60 @@ Fes clic a **“**Genera**”** i copia la contrasenya.
 
 **Com desar una credencial d'un compte de correu electrònic.**
 
-![][image7]
+![Imatge](img/Tasca01_guia_7.png)
 
 Dintre del menú principal, fes clic a “ \+ Element nou”.
 
-![][image8]
+![Imatge](img/Tasca01_guia_8.png)
 
 Un cop dintre, configura un compte de correu electrònic.  
 Exemple:
 
-![][image9]![][image10]
+![Imatge](img/Tasca01_guia_9.png)
+
+![Imatge](img/Tasca01_guia_10.png)
 
 Com desar una credencial d'una aplicació o servei web.
 
-![][image11]
+![Imatge](img/Tasca01_guia_11.png)
 
 En primer lloc, has de instalar la extensió de google de Bitwarden desde el “Chrome web store”.
 
-![][image12]
+![Imatge](img/Tasca01_guia_12.png)
 
 Un cop instalada la extensión de Bitwarden, clica iniciar sessió i utilitza el correu i contrasenya que has seleccionat anteriorment.
 
-![][image13]
+![Imatge](img/Tasca01_guia_13.png)
 
 Quant ja hagis iniciat sessió en la extenció, entra en qualsevol pagina web o aplicació en el meu cas he escollit el github. 
 
-![][image14]
+![Imatge](img/Tasca01_guia_14.png)
 
 Un cop iniciat sessió en la página web, et sortirà una alerta a la part superior dreta per guardar la contrasenya en l'extensió de BitWarden.
 
 Com fer servir l’extensió del navegador per emplenar automàticament les dades.
 
-![][image15]
+![Imatge](img/Tasca01_guia_15.png)
 
 En primer lloc entra al lloc web que vulguis iniciar sessió.
 
-![][image16]
+![Imatge](img/Tasca01_guia_16.png)
 
 si ja tens les credencials confgiurades, t’hauria de sortir les credencials.
 
-![][image17]
+![Imatge](img/Tasca01_guia_17.png)
 
 Si no tens les credencials configurades, clica a inci de sessió nou”
 
-![][image18]
+![Imatge](img/Tasca01_guia_18.png)
 
 Despres et sortira aquesta pestaña per configurar les credencials, introdueix el correu i la contrasenya per tenir les credencials configurades.
 
 Exemple: 
 
-![][image19]
+![Imatge](img/Tasca01_guia_19.png)
 
-![][image20]
+![Imatge](img/Tasca01_guia_20.png)
 
 i ja estaria les credencials del github configurades.
 
@@ -100,18 +102,19 @@ i ja estaria les credencials del github configurades.
 
 Explicació detallada de com fer una còpia de seguretat de l'arxiu de contrasenyes (KDBX en KeePass o Exportació en Bitwarden).
 
-![][image21]
+![Imatge](img/Tasca01_guia_21.png)
 
 Per fer una copia de seguretat en Bitwarden, ves a l’apartat de “Eines \- Exporta la caixa forta”
 
-![][image22]
+![Imatge](img/Tasca01_guia_22.png)
 
 Hi han diferents tipus per exportar, el “**Json**” es el mes recomanat per què es el mes fácil de llegir, i el “**Csv**” es un format més compatible amb altres gestors de contrasenyes.  
-![][image23]
+
+![Imatge](img/Tasca01_guia_23.png)
 
 Abans de exportar, introdueix la contrasenya de mestra.
 
-![][image24]
+![Imatge](img/Tasca01_guia_24.png)
 
 i ja estaria descarregat.
 
