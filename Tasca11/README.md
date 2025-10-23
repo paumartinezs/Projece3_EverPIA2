@@ -149,3 +149,6 @@ Fes clic a **Desa els canvis** (a la part inferior de la pàgina).
     * Explicació de la diferència entre pàgines i entrades.  
     * Descripció dels ajustaments configurats.
 
+A l'arxiu [solucio.md](solucio.md) hi ha la solució descrita
+
+[Torna a la pàgina principal](../README.md)
