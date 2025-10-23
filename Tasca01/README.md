@@ -103,4 +103,6 @@ Incloeu exemples pràctics sobre com:
   - **Clau USB xifrada**  
   - **Emmagatzematge xifrat al núvol**
 
- A l'arxiu [solucio.md](solucio.md)
+ A l'arxiu [solucio.md](solucio.md) hi ha la solució descrita
+
+[Torna a la pàgina principal](../README.md)
