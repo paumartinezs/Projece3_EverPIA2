@@ -1,16 +1,15 @@
-# 
+# **Informe: Ús d’un Gestor de**Contrasenyes a EverPia**
 
-# **Informe: Ús d’un Gestor de** 
+![imagen](img/Tasca01_1.png)
 
-#                        **Contrasenyes a EverPia**
+**Nom:** Pau Martínez Sierra  
+**Curs:** 2b  
+**Mòdul:** Seguretat Informàtica   
+**Link doc:** Drive  
+**Data**: 21/10/2025
 
-                                                                                                                             **Nom:** Pau Martínez Sierra  
-                                                                                                                              **Curs:** 2b  
-		                                                                                                              **Mòdul:** Seguretat Informàtica   
-	                                                                                                              **Link doc:** Drive  
-                                                                                                                             **Data**: 21/10/2025
 
-ÍNDEX
+## ÍNDEX
 
 1. Introducció i Justificació
 
