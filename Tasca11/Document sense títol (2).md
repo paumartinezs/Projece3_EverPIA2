@@ -1,3 +1,5 @@
+# T11: Instal·lació de WordPress en local amb WP Local – Aplicacions Web
+
 En aquesta tasca, cada alumne crearà la seva primera instal·lació de **WordPress en local** utilitzant el programari **WP Local**, que ja està instal·lat als PC de l’aula.
 
 Aquest WordPress serà el vostre **entorn de proves**, on treballarem durant les classes magistrals per entendre els fonaments de WordPress i preparar-nos per desenvolupar una réplica d’una **web completa** en el següent projecte.
