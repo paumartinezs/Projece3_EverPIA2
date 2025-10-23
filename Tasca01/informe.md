@@ -85,6 +85,8 @@ Així es redueix molt el risc d’atacs i filtracions.
 - Cal saber una mica més per configurar-lo.  
 - No és tan pràctic per compartir contrasenyes entre equips.
 
+Ves a la [guia](guia.md)
+
 Torna a [L'enunciat](README.md)
 
 Tonra a la pàgina [Principal](../README.md)
