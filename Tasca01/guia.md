@@ -128,7 +128,7 @@ Perquè un arxiu .json sigui segur, guarda’l en un directori protegit i fora d
 
 Ves al [Informe](informe.md)
 
-Torna a [L'enunciat](README.md)
+Torna a [l'enunciat](README.md)
 
 Torna a la pàgina [principal](../README.md)
 
