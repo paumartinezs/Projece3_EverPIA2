@@ -87,6 +87,6 @@ Així es redueix molt el risc d’atacs i filtracions.
 
 Ves a la [guia](guia.md)
 
-Torna a [L'enunciat](README.md)
+Torna a [l'enunciat](README.md)
 
 Tonra a la pàgina [Principal](../README.md)
