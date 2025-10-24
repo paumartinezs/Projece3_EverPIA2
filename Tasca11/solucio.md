@@ -36,3 +36,7 @@ Per configurar la Lectura de la pagina web, ves al apartat de “Ajustes \- Lect
 
 Per últim crea una altre pàgina que es digui “Contacte” resumen en una frase si la gent vol contactar amb tu sobre algun tipo de temes de la informàtica.
 
+Torna a [l'enunciat](README.md)
+
+Torna a la pàgina [principal](../README.md)
+
