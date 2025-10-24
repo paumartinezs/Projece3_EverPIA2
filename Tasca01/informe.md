@@ -89,4 +89,4 @@ Ves a la [guia](guia.md)
 
 Torna a [l'enunciat](README.md)
 
-Tonra a la pàgina [Principal](../README.md)
+Tonra a la pàgina [principal](../README.md)
