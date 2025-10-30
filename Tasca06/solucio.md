@@ -59,3 +59,7 @@ La resposta és no autoritativa perquè ve d’un servidor DNS i no del servidor
 ![imagen](img/projecte3Tasca06_6.png)
 
 ![imagen](img/projecte3Tasca06_7.png)
+
+Torna a [l'enunciat](README.md)
+
+Tonra a la pàgina [principal](../README.md)
