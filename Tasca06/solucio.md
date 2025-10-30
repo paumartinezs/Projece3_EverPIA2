@@ -1,6 +1,6 @@
-**Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)**
+# **Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)**
 
-* **Comanda 1: Consulta Bàsica de Registre A**
+### **Comanda 1: Consulta Bàsica de Registre A**
 
 - Executa dig xtec.cat A
 
@@ -14,7 +14,7 @@
 
 **SERVER:** 127.0.0.53\#53
 
-* **Comanda 2: Consulta de Servidors de Noms (NS**
+### **Comanda 2: Consulta de Servidors de Noms (NS**
 
 - Executa dig tecnocampus.cat NS
 
@@ -22,9 +22,7 @@
 
 ![imagen](img/projecte3Tasca06_2.png)
 
-* **Comanda 3: Consulta Detallada SOA**
-
-    
+### **Comanda 3: Consulta Detallada SOA**
 
 - Executa dig escolapia.cat SOA
 
@@ -32,7 +30,7 @@
 
 ![imagen](img/projecte3Tasca06_3.png)
 
-* **Comanda 4: Consulta resolució inversa**
+### **Comanda 4: Consulta resolució inversa**
 
 - Executa comanda dig \-x 147.83.2.135  
     
@@ -40,9 +38,9 @@
 
 ![imagen](img/projecte3Tasca06_4.png)
 
-**Comprovació de Resolució amb nslookup (Multiplataforma)**
+## **Comprovació de Resolució amb nslookup (Multiplataforma)**
 
-* **Comanda 1: Consulta Bàsica no Autoritativa**  
+### **Comanda 1: Consulta Bàsica no Autoritativa**  
     
 - Seleccionar *type=A* i com a domini de consulta tecnocampus.cat  
     
@@ -52,7 +50,7 @@
 
 La resposta és no autoritativa perquè ve d’un servidor DNS i no del servidor autoritatiu del domini.
 
-* **Comanda 2: Consultes autoritatives**  
+### **Comanda 2: Consultes autoritatives**  
     
 - Escriure *server IP* i escriure la IP del primer servidor de noms del domini tecnocampus.cat que s’ha obtingut d’una consulta anterior. A continuació, indiqueu que voleu consultar registres de tipus A i del domini tecnocampus.cat  
     
