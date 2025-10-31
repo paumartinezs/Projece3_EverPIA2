@@ -72,7 +72,7 @@ Finalment es vol comprovar el funcionament de la resolució local, útil per ent
 
 **Activitat de la Fase Pràctica:** Crear un document **guia.md** del resultats i anàlisi que inclogui les captures de les 5 comandes anteriors i les explicacions relacionades.
 
-Al arxiu [activitats.md](Activitats.md) hi ha el video
+Al arxiu [activitats.md](Activitats.md) hi ha el video sobre el dns
 
 Al arxiu [solució.md](solucio.md) hi ha la solució de la tasca 06
 
