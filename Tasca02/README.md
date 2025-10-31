@@ -46,5 +46,8 @@ Ens centrarem a estudiar:
 
 Un cop hagi finalitzat la formació, hauràs de **respondre un qüestionari** per tal d’avaluar el teu grau d’assoliment.  
 
-💪 *Supera’l, el teu progrés dins EverPia en depèn!*
+Al arxiu [solució.md](solucio.md) hi ha la solució de la tasca 06
+
+[Torna a la pàgina principal](../README.md)
+
 
