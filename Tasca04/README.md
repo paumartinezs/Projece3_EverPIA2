@@ -21,7 +21,7 @@ Això genera diversos problemes crítics:
 3. **Manca d'Escalabilitat:**  
    A mesura que Innovatech afegeix nous serveis, el problema es fa insostenible.
 
----
+![imagen](img/Tasca04_enunciado_1.png)
 
 ## Solució Proposada
 
