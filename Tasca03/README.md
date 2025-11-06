@@ -27,21 +27,21 @@ Aquest disseny permetrà presentar al client una **proposta de solució tècnica
 
 L'objectiu principal és **dissenyar i documentar dues solucions d'emmagatzematge** (una per a servidors Linux i una per a servidors Windows) que compleixin amb els principis d’**alta disponibilitat, redundància i escalabilitat** per al client.  
 
-> 💡 Com que es tracta d’una *prova de concepte*, no treballareu amb servidors reals, sinó que, per facilitat, usareu **màquines virtuals de sistemes operatius clients** per documentar els procediments.
+>  Com que es tracta d’una *prova de concepte*, no treballareu amb servidors reals, sinó que, per facilitat, usareu **màquines virtuals de sistemes operatius clients** per documentar els procediments.
 
 ![imagen](img/Tasca03_enunciado_1.png)
 
-## 1️⃣ Part Linux: LVM amb Zorin OS
+##  Part Linux: LVM amb Zorin OS
 
 S'ha d'utilitzar la distribució **Zorin OS** (o una alternativa Linux compatible) per demostrar la utilitat del **Logical Volume Manager (LVM)**.
 
 ### Requisits de la Implementació i Demostració
 
-#### 🔧 Configuració Inicial
+####  Configuració Inicial
 - Crear un **grup de volums (VG)** i un **volum lògic (LV)** utilitzant inicialment un mínim de **dos discs durs (simulats) de 10 GB**.  
 - Aquest volum haurà d’estar **formatat i muntat automàticament** al sistema mitjançant l’edició de l’arxiu `/etc/fstab`.
 
-#### 🧩 Alta Disponibilitat
+####  Alta Disponibilitat
 - Implementar la configuració d’un **mirall (lvm_mirror)** que protegeixi la informació davant la fallada d'un disc.
 
 #### 🕒 Instantànies (*snapshots*)
@@ -50,13 +50,13 @@ S'ha d'utilitzar la distribució **Zorin OS** (o una alternativa Linux compatibl
 3. Afegir arxius al volum (poden ser imatges d’Internet).  
 4. Usar el segon disc per crear un **snapshot (`lv_snapshot`)** i documentar **com es pot restaurar** aquest snapshot si la informació original es danya.
 
-#### ⚙️ Escalabilitat
+####  Escalabilitat
 - Demostrar el procés d’**ampliació** del volum.  
 - Usar l’espai que quedi lliure dins el grup de volums per **ampliar el volum `lv_dades`**.
 
 ---
 
-## 2️⃣ Part Windows: Espais d'Emmagatzematge (*Storage Spaces*)
+## 2️ Part Windows: Espais d'Emmagatzematge (*Storage Spaces*)
 
 S'ha d'utilitzar **Windows 11** per demostrar les configuracions possibles mitjançant els **Espais d'Emmagatzematge (Storage Spaces)**.
 
@@ -65,7 +65,7 @@ S'ha d'utilitzar **Windows 11** per demostrar les configuracions possibles mitja
 #### 🔧 Configuració Inicial
 - Crear un **Storage Pool** inicialment amb **tres discos de 10 GB (simulats)**.
 
-#### 🧮 Estudi de Configuracions
+####  Estudi de Configuracions
 
 1. **Resiliència de Mirall (Mirroring):**  
    - Usar **dos discos**.  
@@ -78,13 +78,13 @@ S'ha d'utilitzar **Windows 11** per demostrar les configuracions possibles mitja
 3. **Resiliència de Mirall Triple:**  
    - Afegir **tants discos de 10 GB com siguin necessaris** per demostrar aquesta configuració.
 
-#### 🧭 Demostració de la Gestió
+####  Demostració de la Gestió
 - Mostrar com es visualitza **l'estat dels discos i del pool** des de la consola de gestió de Windows.  
 - Simular la **facilitat de manteniment** per part dels administradors.
 
 ---
 
-## 👥 Organització del Treball
+##  Organització del Treball
 
 El treball serà **en grup**.
 
@@ -101,7 +101,7 @@ El treball serà **en grup**.
 
 ---
 
-## 🗂️ Lliurament
+##  Lliurament
 
 - La documentació dels dos casos es farà en **format Markdown**, incloent:
   - Imatges  
@@ -116,7 +116,7 @@ El treball serà **en grup**.
 
 ---
 
-## 🧩 Avaluació i Presentació
+##  Avaluació i Presentació
 
 - La **nota de la tasca és conjunta** al grup.  
   > Organitzeu-vos bé i mantingueu una bona comunicació interna.  
@@ -125,5 +125,7 @@ El treball serà **en grup**.
 
 ---
 
-💼 *L’èxit d’aquest projecte dependrà de la vostra capacitat per combinar coneixement tècnic, treball en equip i una documentació clara i precisa.*
+ *L’èxit d’aquest projecte dependrà de la vostra capacitat per combinar coneixement tècnic, treball en equip i una documentació clara i precisa.*
 
+
+[Torna a la pàgina principal](../README.md)
