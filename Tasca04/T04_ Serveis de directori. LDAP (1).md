@@ -1,6 +1,6 @@
 # **T04: Serveis de directori. LDAP**
 
-#### **3.1. Instal·lació i Configuració Base d'OpenLDAP**
+## **3.1. Instal·lació i Configuració Base d'OpenLDAP**
 
 ![][image1]
 
@@ -48,7 +48,7 @@ Per comprovar que el directori s’ha creat amb el nom que volem, utilitza “**
 
 **![][image13]**
 
-#### **3.2. Gestió i Administració (LAM)**
+## **3.2. Gestió i Administració (LAM)**
 
 **![][image14]**
 
@@ -123,7 +123,7 @@ Entra a **“unix”**, posa de nom **“manager01”** i a UID número posa **1
 ![][image34]  
 Afageix·li una contrasenya a l’usuari **“manager01”** 
 
-### **4\. Integració de Client (Client Ubuntu Desktop)**
+## **4\. Integració de Client (Client Ubuntu Desktop)**
 
 ![][image35]
 
