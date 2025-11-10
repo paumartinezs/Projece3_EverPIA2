@@ -68,3 +68,6 @@ Creeu una nova web anomenada:
    * Configureu el menú principal i els submenús.  
    * Activeu i proveu diferents temes fins a trobar-ne un que s’ajusti al disseny original.  
    * Ajusteu els enllaços permanents i els paràmetres generals (idioma, zona horària, nom del lloc…)
+
+
+[Torna a la pàgina principal](../README.md)
