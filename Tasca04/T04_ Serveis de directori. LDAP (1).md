@@ -48,7 +48,7 @@ Per comprovar que el directori s’ha creat amb el nom que volem, utilitza “**
 
 **![imagen](img/Tasca04_13.png)**
 
-## **3.2. Gestió i Administració (LAM)**
+# **3.2. Gestió i Administració (LAM)**
 
 **![imagen](img/Tasca04_14.png)**
 
@@ -63,6 +63,7 @@ Utilitza la “**Ip a**” per mirar la IP de la enp0s8.
 Ara posa la ip \+ **“/lam/templates/login.php”** per entrar dintre.
 
 ![imagen](img/Tasca04_17.png)
+
 Clica a **“LAM configuration”**.
 
 ![imagen](img/Tasca04_18.png)
@@ -78,11 +79,13 @@ Si vols canviar el password o crear un nou perfil, ves a **“Manage server prof
 La contrasenya és la mateixa que el nom del perfil **“lam”**
 
 ![imagen](img/Tasca04_21.png)
+
 Canvia la configuració del server com surt a la pantalla.
 
 ![imagen](img/Tasca04_22.png)
 
 També canvia la de **“Tool”**  
+
 ![imagen](img/Tasca04_23.png)
 
 Canvia la configuració del **“users”** i dels **“grups”** com a la captura de la pantalla.
@@ -98,12 +101,15 @@ Entra a **“groups”.**
 ![imagen](img/Tasca04_26.png)
 
 ![imagen](img/Tasca04_27.png)
+
 Crea un nou grup.
 
 ![imagen](img/Tasca04_28.png)
+
 Posa de nom al grup **“Manager”**
 
 ![imagen](img/Tasca04_29.png)
+
 Crea un nou usuari.
 
 ![imagen](img/Tasca04_30.png)
@@ -118,9 +124,11 @@ Posal·li de nom **“Tech01**” i a UID number posa 10000
 Crea un altre user amb el last name de **“manager01”**
 
 ![imagen](img/Tasca04_33.png)  
+
 Entra a **“unix”**, posa de nom **“manager01”** i a UID número posa **10001**
 
 ![imagen](img/Tasca04_34.png)  
+
 Afageix·li una contrasenya a l’usuari **“manager01”** 
 
 ## **4\. Integració de Client (Client Ubuntu Desktop)**
@@ -140,6 +148,7 @@ Canvia el nom del domini.
 ![imagen](img/Tasca04_38.png)
 
 Comprova que el nom del domini és correcte.  
+
 ![imagen](img/Tasca04_39.png)
 
 Utilitza la comanda **“dig”** per comprovar que els noms funcionen correctament.
@@ -179,6 +188,7 @@ Utilitza la teva contrasenya en el meu cas **“usuari”.**
 ![imagen](img/Tasca04_48.png)
 
 Copia aquest comanda per comprovar sí el client conecta amb el servidor.  
+
 ![imagen](img/Tasca04_49.png)
 
  Configurem l'arxiu **nsswitch.conf** per indicar que s'usarà LDAP per usuaris i grups.
@@ -214,6 +224,7 @@ ara edita l'arxiu indicat, per permetre l'inici de sessió
 ![imagen](img/Tasca04_57.png)
 
 Copia el mostrat a la captura de pantalla.  
+
 ![imagen](img/Tasca04_58.png)
 
 Reincia la màquina virtual i inicia sessió amb l’altre usuari.
