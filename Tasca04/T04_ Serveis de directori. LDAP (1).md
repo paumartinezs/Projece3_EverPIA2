@@ -131,7 +131,7 @@ Entra a **“unix”**, posa de nom **“manager01”** i a UID número posa **1
 
 Afageix·li una contrasenya a l’usuari **“manager01”** 
 
-## **4\. Integració de Client (Client Ubuntu Desktop)**
+# **4\. Integració de Client (Client Ubuntu Desktop)**
 
 ![imagen](img/Tasca04_35.png)
 
