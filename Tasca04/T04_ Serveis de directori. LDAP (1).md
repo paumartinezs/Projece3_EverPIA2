@@ -244,3 +244,7 @@ Un cop dins de la màquina virtual amb l’altre usuari, entra a la terminal
 ![imagen](img/Tasca04_62.png)
 
 Un cop iniciem sessió, comprovem com se li ha creat la carpeta personal i comprovem l'usuari amb la comanda **“id”**
+
+Torna a [l'enunciat](README.md)
+
+Torna a la pàgina [principal](../README.md)
