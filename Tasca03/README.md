@@ -128,4 +128,7 @@ El treball serà **en grup**.
  *L’èxit d’aquest projecte dependrà de la vostra capacitat per combinar coneixement tècnic, treball en equip i una documentació clara i precisa.*
 
 
+Al arxiu [solució.md](solucio.md) hi ha la solució de la tasca 03
+
+
 [Torna a la pàgina principal](../README.md)
