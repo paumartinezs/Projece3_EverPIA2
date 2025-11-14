@@ -10,6 +10,9 @@ Actualment, l'agència fa servir adreces IP per accedir als seus servidors de de
 
 Per tant, la nostra missió és implementar un Sistema de Noms de Domini (DNS) intern robust. L'objectiu és que els servidors i aplicacions de l'agència es puguin accedir utilitzant noms de domini amigables (p. ex., bbdd.digicore.lan o wiki.digicore.lan).
 
+
+![imagen](img/Tasca07_1.png)
+
 **El vostre repte**
 
 La recomanació com a consultora és utilitzar BIND9, l'estàndard de facto de servidor de noms a Linux, per la seva fiabilitat i flexibilitat.
