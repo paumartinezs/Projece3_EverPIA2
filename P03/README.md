@@ -71,3 +71,5 @@ Creeu una nova web anomenada:
 
 
 [Torna a la pàgina principal](../README.md)
+
+Al arxiu [solució.md](solucio.md) hi ha el link de la pagina web 
