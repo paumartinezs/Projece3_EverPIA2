@@ -1,4 +1,4 @@
-## T04: Serveis de directori. LDAP Implementació d’un Sistema d’Autenticació Centralitzada amb OpenLDAP
+# T04: Serveis de directori. LDAP Implementació d’un Sistema d’Autenticació Centralitzada amb OpenLDAP
 
 ## Context
 
