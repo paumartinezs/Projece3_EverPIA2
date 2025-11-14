@@ -52,3 +52,4 @@ El teniu disponible en el **plec de condicions tècniques** (també accessible a
 
 💡 *Recorda: una bona gestió d’usuaris és la clau per mantenir la seguretat i l’eficiència en qualsevol entorn empresarial.*
 
+Al arxiu [solució.md](solucio.md) hi ha la solució de la tasca 04
