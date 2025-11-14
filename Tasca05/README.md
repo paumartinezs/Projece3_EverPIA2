@@ -28,3 +28,4 @@ A més d’un informe amb tots aquests punts, caldrà fer un últim apartat amb 
 
 Es farà **d’auditoria per equips amb feedback** per incorporar a l’informe a mode de correccions. També hi haurà una **prova de validació**.
 
+Al arxiu [solució.md](solucio.md) hi ha la solució de la tasca 04
