@@ -106,3 +106,6 @@ A continuació configurarem un sistema de mirall (mirror) senzill.
 
 ![imagen](img/Tasca03_projecte3_01_28.png)
 
+Torna a [l'enunciat](README.md)
+
+Tonra a la pàgina [principal](../README.md)
