@@ -13,7 +13,8 @@ Després de mesos de feina intensa, nits de pizza i commits a última hora, la c
   - [Tasca08](Tasca08)
   - [Tasca09](Tasca09)
   - [Tasca10](Tasca10)
-  - [Producte 03](P03)
+  - [Producte03](Producte03)
+  - [Producte04](Producte04)
 
 
 ## EverPia 2: “Sobreviure en una empresa IT”
