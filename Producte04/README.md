@@ -22,4 +22,4 @@ Els arxius a copiar seran els que heu editat o creat en la tasca del servidor DN
 
 Al arxiu [solució.md](solucio.md) hi ha la solució del producte final 04
 
-Torna a la pagina principal (./README.md)
+[Torna a la pagina principal](../README.md)
